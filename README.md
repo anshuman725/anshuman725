@@ -10,5 +10,5 @@
 
 
 
-## 📧 Contact me-[Gmail](anshuman.par@gmail.com) ; [LinkedIn](www.linkedin.com/in/anshuman-parmar-3a0365194)
+## 📧 Contact me- [Gmail](anshuman.par@gmail.com)     [LinkedIn](www.linkedin.com/in/anshuman-parmar-3a0365194)
 
