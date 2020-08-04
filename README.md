@@ -6,7 +6,7 @@
 - 💬 Ask me about:PC builds,Graphic Cards
 - ⚡ Fun fact: I love Coding||Gaming||Sports
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuman725&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuman725&&show_icons=true&title_color=67E6DC&icon_color=01CBC6&text_color=EAF0F1&bg_color=2B2B52">
 
 
 ## Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
