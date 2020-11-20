@@ -3,7 +3,6 @@
 ## I am a 2nd Year CSE Student.
 
 - 🌱 I’m currently learning Java,WEB technologies
-- 😉 Pronouns: He/Him
 - 💬 Ask me about:PC builds
 - ⚡ Fun fact: I love Gaming||Sports
 
