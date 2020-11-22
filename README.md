@@ -2,7 +2,7 @@
 # Welcome to my GitHub Page. 👋
 ## I am a 2nd Year CSE Student.
 
-- 🌱 I’m currently learning Java,WEB technologies
+- 🌱 I’m currently learning,WEB technologies and Ds-Algo. 
 - 💬 Ask me about:PC builds
 - ⚡ Fun fact: I love Gaming||Sports
 
