@@ -17,4 +17,4 @@
 <a href="https://www.facebook.com/profile.php?id=100006259502453" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Anshuman Parmar" height="40" width="40" /></a>
 </p>
 
-### https://anshuman725.github.io/anshuman.github.io/ 
+### https://dev-anshuman.herokuapp.com/
