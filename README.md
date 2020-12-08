@@ -6,7 +6,7 @@
 - 💬 Ask me about:PC builds
 - ⚡ Fun fact: I love Gaming||Sports
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshuman725&&show_icons=true&title_color=67E6DC&icon_color=01CBC6&text_color=EAF0F1&bg_color=2B2B52">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman725&layout=compact&&show_icons=true&title_color=67E6DC&icon_color=01CBC6&text_color=EAF0F1&bg_color=2B2B52">
+<img src="https://github-readme-stats.vercel.app/api?username=anshuman725&&show_icons=true&title_color=67E6DC&icon_color=01CBC6&text_color=#000000&bg_color=#fff">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman725&layout=compact&&show_icons=true&title_color=67E6DC&icon_color=01CBC6&text_color=#000000&bg_color=#fff">
 
 
 
