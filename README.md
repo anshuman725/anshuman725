@@ -1,11 +1,13 @@
 # Hello all,
+
 ### Welcome to my GitHub Page. 👋
+
 ### I am 2nd Year CSE Student.
 
 - 🌱 I’m currently learning,WEB technologies and Ds-Algo. 
 - 💬 Ask me about:PC builds
 - ⚡ Fun fact: I love Gaming||Sports
-
+- 💻 [Check Out My Website](https://dev-anshuman.herokuapp.com/)
 
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,9 +23,10 @@
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GIT](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+<img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 
-### https://dev-anshuman.herokuapp.com/
+
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=anshuman725&theme=blue-green">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman725&layout=compact&theme=blue-green">
