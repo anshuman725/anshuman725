@@ -39,9 +39,9 @@
 
 <h2 align='center'>Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h2>
 <p align="center">
-  <a href="www.linkedin.com/in/anshuman-parmar-3a0365194" target="blank"><img    align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anshuman Parmar"  /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anshuman-parmar-3a0365194/" target="blank"><img    align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anshuman Parmar"  /></a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/anshuman_7_/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="anshuman_7"  /></a> &nbsp;&nbsp;
 <a href="https://twitter.com/AnshumanParma13" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  /></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100006259502453" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Anshuman Parmar"  /></a>
+
 </p>
 
