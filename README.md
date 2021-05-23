@@ -31,7 +31,7 @@
 
 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anshuman725&theme=blue-green">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman725&layout=compact&theme=blue-green">
+<img width="420px" src="https://github-readme-stats.vercel.app/api?username=anshuman725&theme=blue-green">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman725&layout=compact&theme=blue-green">
 
 
 
