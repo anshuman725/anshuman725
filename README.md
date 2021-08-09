@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub Page. 👋
 
-### I am 2nd Year CSE Student.
+### I am 3rd Year CSE Student.
 
 - 🌱 I’m currently learning WEB technologies and Ds-Algo. 
 - 💬 Ask me about:PC builds
